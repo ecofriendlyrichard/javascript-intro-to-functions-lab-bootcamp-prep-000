@@ -52,27 +52,19 @@ describe('sayHiToGrandma(string)', function() {
 */
 
 
-var uppercase="HELLO!";
-var lowercase="hello!";
 
-//function 7
+//function 5,6,7
 function sayHiToGrandma(string){
   if(string==="I love you, Grandma.")
   {
       return "I love you, too.";
   }
-  else(string===string.toUpperCase())
+  else if (string===string.toUpperCase())
   {
     string3='YES INDEED!';
       return string3;
   }
-}
-
-
-
-//function 5
-function sayHiToGrandma(string){
-  if(string===string.toLowerCase())
+  else (string===string.toLowerCase())
   {
       return 'I can\'t hear you!';
   }

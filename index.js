@@ -63,20 +63,12 @@ function sayHiToGrandma(string){
   }
   else(string===string.toUpperCase())
   {
-    
-  }
-}
-
-
-//function 6
-function sayHiToGrandma(string){
-  if(string===string.toUpperCase())
-  {
     string3='YES INDEED!';
       return string3;
   }
-
 }
+
+
 
 //function 5
 function sayHiToGrandma(string){

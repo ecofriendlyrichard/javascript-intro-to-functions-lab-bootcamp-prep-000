@@ -80,7 +80,6 @@ function logWhisper(string){
 
 }
 
-var uppercase = "HELLO!";
 
 //function 3
 function logShout(uppercase){

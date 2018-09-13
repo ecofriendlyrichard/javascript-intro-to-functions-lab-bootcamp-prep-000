@@ -70,23 +70,17 @@ function sayHiToGrandma(string){
 }
 
 
-/*function 4
+//function 4
 function logWhisper(string){
   if(string===string.toLowerCase())
   {
-    console.log(string);
-      console.log('hello');
-      console.log(string.toLowerCase());
-      console.log(string.toUpperCase());
-      console.log('HELLO');
   }
 
 }
-*/
 
 //function 3
 function logShout(string){
-  if(string.toUpperCase()===string){
+  if(string.toUpperCase()===string) {
     
   }
 }

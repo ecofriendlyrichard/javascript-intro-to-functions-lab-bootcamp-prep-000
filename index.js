@@ -76,8 +76,8 @@ function logWhisper(string){
   {
     console.log(string);
       console.log('hello');
-      console.log(string.toLowerCase);
-      console.log(string.toUpperCase);
+      console.log(string.toLowerCase());
+      console.log(string.toUpperCase());
       console.log('HELLO');
   }
 

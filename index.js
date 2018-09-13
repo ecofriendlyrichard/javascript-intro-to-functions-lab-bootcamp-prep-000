@@ -54,7 +54,7 @@ function whisper(string){
 }
 
 
-//function 2
+//function 1
 function shout(string){
   return string.toUpperCase();
 }

@@ -84,12 +84,12 @@ function logWhisper(string){
 }
 
 
-//function 3
+/*function 3
 function logShout(string){
   if(string.toUpperCase()===string)
       console.log('HELLO');
 }
-
+*/
 
 //function 2
 function whisper(string){

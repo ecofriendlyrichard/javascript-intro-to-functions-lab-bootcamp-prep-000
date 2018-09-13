@@ -83,7 +83,7 @@ function logWhisper(string){
 //function 3
 function logShout(uppercase){
   if(uppercase.toUpperCase()===uppercase)
-      console.log('HELLO');
+      console.log(uppercase.toUpperCase());
 }
 
 

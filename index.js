@@ -81,9 +81,7 @@ function logWhisper(string){
 
 //function 3
 function logShout(string){
-  if(string.toUpperCase()===string) {
     console.log(string.toUpperCase());
-  }
 }
 
 
